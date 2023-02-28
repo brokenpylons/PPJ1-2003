@@ -1,1 +1,1 @@
-float("3") times("*") lparen("(") lparen("(") lparen("(") lparen("(") variable("Harg323") plus("+") float("2") minus("-") variable("a2") times("*") float("41.0000") rparen(")") rparen(")") plus("+") float("4.0") rparen(")") rparen(")") 
+hex("#0f162") minus("-") variable("G") plus("+") variable("HLi123") bwand("&") variable("Rir") divide("/") lparen("(") hex("#e91fcc") rparen(")") plus("+") variable("Hai") divide("/") hex("#6e0b") 

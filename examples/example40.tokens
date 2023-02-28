@@ -1,1 +1,1 @@
-float("16.6") plus("+") float("5") plus("+") float("5") times("*") variable("WoEEht") pow("^") variable("HLice") times("*") float("5.00259") 
+hex("#f0f6Bc") minus("-") hex("#A0ebcc") times("*") lparen("(") lparen("(") hex("#f01f") rparen(")") bwand("&") int("8") times("*") int("2") rparen(")") bwor("|") variable("G1") bwor("|") int("2") 

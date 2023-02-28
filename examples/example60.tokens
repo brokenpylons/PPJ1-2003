@@ -1,1 +1,1 @@
-lparen("(") float("1.10219") plus("+") float("517549") times("*") float("117549") plus("+") variable("faish") times("*") float("407549") rparen(")") plus("+") variable("g2") minus("-") variable("fisc3") 
+hex("#000f") plus("+") lparen("(") int("417549") times("*") lparen("(") lparen("(") int("4") rparen(")") plus("+") variable("aist") plus("+") variable("Had1") rparen(")") rparen(")") bwand("&") variable("H2") bwor("|") int("8") times("*") hex("#0fEE") bwand("&") lparen("(") int("5") rparen(")") 
